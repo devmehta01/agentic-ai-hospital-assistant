@@ -1,0 +1,10 @@
+langchain
+langgraph
+streamlit
+fastapi
+uvicorn
+requests
+python-dotenv
+tiktoken
+faiss-cpu
+langchain-community

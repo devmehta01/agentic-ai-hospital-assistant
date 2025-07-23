@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dr. Alice Patel",
+    "specialty": "Gastroenterologist",
+    "description": "Specialist in stomach, liver, and digestive disorders."
+  },
+  {
+    "name": "Dr. Ravi Mehta",
+    "specialty": "Orthopedic Surgeon",
+    "description": "Expert in bone, joint, and neck/back pain treatments."
+  },
+  {
+    "name": "Dr. Sarah Lee",
+    "specialty": "Dermatologist",
+    "description": "Handles skin, hair, and nail-related issues."
+  }
+]
